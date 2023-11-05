@@ -1,0 +1,89 @@
+{
+  "name": "Linbing Default",
+  "timestamp": "2023-11-05T09:35:06.885Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/linbing-tokens/default-token-list/main/linbing.jpg",
+  "keywords": [
+    "linbing",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "GMX",
+      "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+      "symbol": "GMX",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://assets.coingecko.com/coins/images/18323/large/arbit.png?1631532468"
+    },
+    {
+      "name": "Bridged USDC",
+      "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "chainId": 42161,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 1313161555,
+      "address": "0xD7d425128e309a37E8470eed1ba00687DF081975",
+      "symbol": "atUST",
+      "name": "UST",
+      "decimals": 18,
+      "logoURI": "images/token-list/ust.png"
+    },
+    {
+      "chainId": 1313161555,
+      "address": "0xE8Eb9f87e7Cc9Fb3C52d48dd4eb7f5378BC80f73",
+      "symbol": "LIN",
+      "name": "Linbing Token",
+      "decimals": 18,
+      "logoURI": "images/token-list/lin.png"
+    },
+    {
+      "chainId": 1313161555,
+      "address": "0x3DC47E4573e695Bd26876a8AD070490ef18f9F48",
+      "symbol": "USDC",
+      "name": "USDC",
+      "decimals": 6,
+      "logoURI": "images/token-list/usdc.png"
+    },
+    {
+      "chainId": 1313161555,
+      "address": "0x61731352D253D5c6b4f947fE53CE8Ba3Bc7BffC0",
+      "symbol": "USDT",
+      "name": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png"
+    },
+    {
+      "chainId": 1313161555,
+      "address": "0x27e2714bAf8054Fbbb12CeABD9f1CBdCB058BBaa",
+      "symbol": "WETH",
+      "name": "Wrapped ETH",
+      "decimals": 18,
+      "logoURI": "images/token-list/weth.png"
+    },
+    {
+      "chainId": 1313161555,
+      "address": "0x886DA0840Fd919228B3Bf09c59E774EFAecd187E",
+      "symbol": "WETH",
+      "name": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png"
+    },
+    {
+      "chainId": 1313161555,
+      "address": "0x65F1Aa6822f1dc18035ad40053571F3F68d691Ce",
+      "symbol": "xLIN",
+      "name": "Staked LIN",
+      "decimals": 18,
+      "logoURI": "images/token-list/xlin.png"
+    }
+  ]
+}
